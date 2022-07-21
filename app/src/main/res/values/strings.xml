@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">STiCanteen</string>
+    <string name="field_empty_error">fields cannot be empty</string>
+    <string name="invalid_credentials">Invalid Email or Password</string>
+    <string name="poor_connection">Poor Connection cannot send request to server.</string>
+    <string name="server_error">Server Error</string>
+    <string name="login_header">Let\'s sign you in.</string>
+    <string name="login_header_subtitle">Welcome back, you\'ve been missed!</string>
+    <string name="type_email_address">Type your email address here</string>
+    <string name="type_password_here">Type your password here</string>
+    <string name="hint_email">sti_student@email.com</string>
+    <string name="password_hint">Your password is secure here</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register_header">Lets get you started</string>
+    <string name="register_here">Register here.</string>
+    <string name="tell_us_who_you_are">Tell us who you are.</string>
+    <string name="whats_your_name">Whats your name.</string>
+    <string name="tell_us_your_contact_number">Tell us your contact number</string>
+    <string name="what_is_your_contact_number">What is your contact number</string>
+    <string name="sign_up">Sign up</string>
+    <string name="invalid_empty_name">Name cannot be empty</string>
+    <string name="invalid_email_format">Invalid email format</string>
+    <string name="invalid_phone_format">Invalid phone number format</string>
+    <string name="password_validation_format">Password length must be 6 characters long and at least 1 uppercase.</string>
+    <string name="search_here">Search here...</string>
+    <string name="quantity_and_price">Quantity and Price</string>
+    <string name="confirm">Confirm</string>
+    <string name="success_add_to_cart">Successfully Added to Cart</string>
+    <string name="failed_add_to_cart">Unable to add product to cart</string>
+</resources>
